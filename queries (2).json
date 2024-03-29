@@ -1,0 +1,168 @@
+{"intents": [
+    {"tag":"Hi",
+    "patterns":["Hi","hello","greetings"],
+    "responses":["hello,how can i help you?"]
+    }
+    {"tag": "Name",
+     "patterns": ["What is the name of the college?"],
+     "responses": ["The name of the college is St.Joseph's Institute of Technology."],
+     "image_url":["https://stjosephstechnology.ac.in/web/img/slider/entrance.jpg"]
+    },
+    {"tag": "Location",
+     "patterns": ["Where is the college located?"],
+     "responses": ["The college is Located in Semmanjeri,omr-600019."],
+     "location": {
+        "latitude": 12.9235,
+        "longitude": 77.6724,
+        
+        "location_url": "https://maps.app.goo.gl/rBDadU2YhFPZCHb56"}
+    },
+    
+    {"tag": "Founder",
+     "patterns": ["When was the college founded"],
+     "responses": ["The college was founded in the year 2011."],
+     "image_url":["https://th.bing.com/th/id/R.2a57033e80b19cc1286545cabbddbafc?rik=aM2Nwb%2fPCoVMTg&riu=http%3a%2f%2fportal.stjosephstechnology.ac.in%2fportal%2fimages%2f1.JPG&ehk=VMB9t0euwjwwPc1yioQV%2f6NqFksmMkse8Sx2RbFEkeY%3d&risl=&pid=ImgRaw&r=0"]
+    },
+    {"tag": "Vision",
+     "patterns": ["What is the college's vision statement?" ],
+     "responses": ["To be a center of excellence for Education, Innovation, and Research in EngineeringTechnology and Management and to encourage  entrepreneurship with ethical and professional standards to benefit the society at large."]
+    },
+    {"tag": "Count",
+    "patterns": [" How many students are enrolled at the college?"],
+    "responses": ["Currently,  1000 students are enrolled at the College."]
+    },
+    {"tag": "Department",
+    "patterns": ["Q7: How many academic departments does the college have?"],
+    "responses": ["The College has 6 academic departments."]
+    },
+    {"tag": "Class-Instructions",
+    "patterns": ["How are the classes structured?"],
+    "responses": ["Classes are structured with a combination of lectures, discussions, and practical sessions."]
+    },
+    {"tag": "PG",
+    "patterns": ["Are there any pg degrees included?"],
+    "responses": ["Yes, Management of Business Administration(MBA)."]
+    },
+{"tag": "Research",
+    "patterns": ["Are there research opportunities for undergraduates?"],
+    "responses": ["Yes, undergraduates have access to research opportunities in their departments."]
+    },
+{"tag": "ABHS",
+    "patterns": ["Tell about ABHS of the institution?"],
+    "responses": ["Yes, The Advisory Bureau for Higher Studies (ABHS) is a separate cell which takes care of all the requirements of the students for pursuing higher studies in India and around the Globe. Campus coaching classes for GATE, GRE, TOEFL & CAT are conducted for the benefit of our hostel students."]
+    },
+{"tag": "Placement Training",
+    "patterns": ["What are the training programs included for students?"],
+    "responses": ["HOPE - House of Program Excellence and PEP-Placement Empowerment Programme for various domains are conducted."]
+    },
+{"tag": "Placed",
+      "patterns": ["How many students were placed in the year 2019-2023"],
+      "responses": ["Nearly 601 students placed in the year 2019-2023."]
+    },
+{ "tag": "club-activities",
+      "patterns": ["Do they conduct club activities?"],
+      "responses": ["Yes, Every human being possesses at least one skill that makes them unique and memorable. Our college has a club for all special skills that help our students to improve their skills. Students skilled in academics can enroll in Maths Club, Science Club, Robotics Club, quiz club, and Google Students interested in recreation can enroll in Arts Club, Dance Club, and Music Club students with multilingual abilities can enrol in English and Tamil clubs Students having a businessmindset can enroll in the Entrepreneur club."]
+    },
+{"tag": "students-achievements",
+    "patterns": ["Tell about few achievements of the students"],
+    "responses": ["CSE Student has received First Prize for 'Best Running Software' in User Centred Design Hackathon organized by NanogiantsGmbH, Germany. ECE Students have received II and III prizes for Project ModelDevelopment in National level Hackathon named SAMVEDAN2021 jointly organized by IIT Madras and Sony India Software Ltd.\n• Mechanical, ECE, and Biotech students have received a grant of Rs.34.5 Lakhs in the National Level Grant Challenge MSME IDEAHACKTHON-2022 organized by MSME, Government of India.• Mechanical Students have constructed All-Terrain Vehicle (ATV)and participated in SAE India m-BAJA 2022 conducted NATRIP,\nMadhya Pradesh.• EEE students Mr. Arangan Rishikesh and Mr. Kumaran have received the winning positions IEEE Richard E. Merwin Student\nscholarship Award provided by IEEE Computer Society.• Information Technology and Biotech Students have made our college proud by receiving INAE Innovative Student Project Award 2022 from the Indian National Academy of Engineering, Government of India."]
+    },
+{"tag": "Package",
+    "patterns": ["What is the highest package offered in the college?"],
+    "responses": ["Adobe Systems has offered the  highest CTC of 40 lakhs per annum."]
+    },
+{"tag": "Facilities",
+    "patterns": ["What are the facilities provided in the college?"],
+    "responses": ["The Colleges have 12 AUDIOVISUAL halls for conducting seminars and other Co-curricular and Extracurricular activities student CO-OPERATIVE STORE supplies all textbooks, notebooks,records, observations, drawing boards,Calculator, Uniform materials, minidrafters.The college ORCHESTRA comprisingour instruments and studentsproves to be a platform to display thetalents of upcoming musicians. Free WASHING AND IRONING facilitys provided for the hostel students. The Indian BANK branches in thecolleges assist the students in financial transactions. We have fourseparate ATMs functioning for boysand girls in both colleges. And a Library with thousands of books for student's reference is provided. The Colleges have a huge fleet of buses covering all the areas in and around Chennai city and suburbs. A sophisticated workshop to repair and maintain the entire fleet of 37 (Technology) buses and exclusive diesel bunk is available on the campus."]
+    },
+{"tag": "Mission",
+    "patterns": ["What is the mission of the college?"],
+    "responses": ["To create a better learning environment to produce competent and innovative professionals with sound technical knowledge and management skills.To instill ethical and social values among the students to contribute to global technological and socio-economic development. To inculcate qualities of leadership and entrepreneurship in students to improve their employability and achieve sustained placement through campus interviews. To provide opportunities and resources through consistent industry-institute Interaction forResearch and Development in the emerging fields."]
+    },
+{"tag": "chairman",
+    "patterns": ["Who is the chairman of the institution?"],
+    "responses": ["Dr.B.Babu ManoharanM.A., M.B.A., Ph.D.is the Chairman of the institution."],
+     "image_url": ["https://www.stjosephstechnology.ac.in/web/img/team/20.jpg"]
+    },
+{"tag": "Principal",
+    "patterns": ["Who is the principal of the institution?"],
+    "responses": ["Dr.P.RavichandranM.Tech., Ph.D. is the principal of the institution."],
+    "image_url":["https://www.stjosephstechnology.ac.in/web/img/team/23.jpg"]
+    },
+{"tag": "MD",
+    "patterns": ["Who is the Managing director?"],
+    "responses": ["Mr.B.Shashi SekarM.Sc is the Managing Director of the institution ."],
+    "image_url":["https://www.stjosephstechnology.ac.in/web/img/team/22.jpg"]
+    },
+{"tag": "ED",
+    "patterns": ["Who is the executive director?"],
+    "responses": ["Mrs.S.Jessie Priya M.com is the Executive Director of the institution."],
+    "image_url":["https://www.stjosephstechnology.ac.in/web/img/team/21.jpg"]
+    },
+{"tag": "Recruiters",
+    "patterns": ["Who are the top recruiters of the college?"],
+    "responses": ["CodingMart,42hertz, Eurofins, Adobe, Infosys, Zoho, Bajaj, Kaar Technology, Bluetech, Bosch, ThoughtWorks."]
+    },
+{"tag": "Timing",
+    "patterns": ["What is the regular timing of the college?"],
+    "responses": ["General Timings: 7.50 am to 3.00 pm. Buses will leave the campus at 3.10 pm.."]
+    },
+{"tag": "Attendance",
+    "patterns": ["How many leaves can a student apply per semester?"],
+    "responses": ["Students can avail a maximum of 6 days leave in a semester. All the students should make note of the following leave regulations and are instructed to strictly abide by these rules while availing leave."]
+    } ,
+{"tag": "Dress-code",
+    "patterns": ["Explain about dress code for students"],
+    "responses": ["Boys: All the boys are expected to wear self-colored pants with their shirts neatly tucked in, tie, and shoes. Slippers are not permitted. Boys should not have long hair or beard. Girls: All the girls should wear a saree or churidar with lengthy tops below knee level without slitor Anarkali churidar or churidar with umbrella cut and dupatta neatly pinned inv shape. Coloring/bleaching the hair and Wearing legging (Stretch pants), transparentor net Dhupata are not permitted."]
+    },
+{"tag":"College-code",
+    "patterns":["what is the college code"],
+    "responses":["It is 1149"],
+    "image_url":["https://i.ytimg.com/vi/r2sRxF-zO48/maxresdefault.jpg"]
+},
+{"tag": "Internal Assessments",
+    "patterns": ["How many internal assessments are conducted per semester?"],
+    "responses": ["Model Theory I Exam for Unit I & II and Model Theory II Exam for Unit III & IV and . MODEL THEORY EXAMINATIONS - III-All 5 units."]
+    },
+{"tag": "IV",
+    "patterns": ["Do they take students out for Industrial visits?"],
+    "responses": ["Yes, Industrial Visits are Compulsory for all students . Only one relevant industrial visit per semester, either a local visit or one one-day visit will be arranged for eachclass. No amount will be collected for the Industrial Visit"]
+    },
+{"tag": "NGO",
+    "patterns": ["Do they take students  out for NGO ?"],
+    "responses": ["Yes, NGOs are Compulsory for all students. It is conducted by the campus to create awareness and spread humanity towards students to make them indulge in social services in the future."]
+    },
+{"tag": "Autonomous",
+    "patterns": ["Is the campus Autonomous?"],
+    "responses": ["Yes, the institution became autonomous in the year 2022."]
+    },
+{"tag": "Au",
+    "patterns": ["Is the Campus affiliated to Anna University?"],
+    "responses": ["Yes, the Campus is affiliated with Anna University."]
+    },
+{"tag":"Staff",
+    "patterns":["How many staff membere are there in the institution?"],
+    "responses":["We have highly qualified and well experienced staff members to teach and guide the students in their academic and professional career.Out of 513 staff members 302 staff members are Ph.D holders and 161 staff members are currently pursuing their doctoral programme"]
+   },
+
+{"tag": "DocumentIntent",
+    "patterns": ["Can I get the college brochure?"],
+    "responses": ["Sure! You can download the college brochure here:"],
+    "document_url": ["https://www.stjosephstechnology.ac.in/web/uploads/circulars/2023_2024/Academic-2023-24.pdf"]
+    },
+{"tag": "Accrediation",
+    "patterns": ["Is the college accrediated by NBA?"],
+    "responses": ["All UG programs except B.E. EEE in St. Josephs Institute of Technology are Accredited byNBA New Delhi"]
+},
+
+{"tag": "VideoIntent",
+    "patterns": ["Show me a video about the college"],
+    "responses": ["Certainly! Here is a video about the college:"],
+    "video_url": ["https://www.bing.com/videos/riverview/relatedvideo?&q=st.joseph%27s+institute+of+technology&&mid=A56093252CF52D156E62A56093252CF52D156E62&&FORM=VRDGAR"]
+        }
+        
+        
+
+
+]
+}
